@@ -1,4 +1,4 @@
-# PCAP Training - Certified Associate Python Programmer
+# PCAP Quiz - Certified Associate Python Programmer
 
 
 
@@ -8,13 +8,13 @@
 
 ---
 
-- [Start Training](https://github.com/decelik/PCAP_Quiz)
+- [Start Quiz](https://github.com/decelik/PCAP_Quiz)
 
 
 
 # English
 
-Welcome to the PCAP Training project! This project is a web-based application designed to help users prepare for the Certified Associate Python Programmer (PCAP) certification (31-03) through an interactive quiz.
+Welcome to the PCAP Quiz project! This project is a web-based application designed to help users prepare for the Certified Associate Python Programmer (PCAP) certification (31-03) through an interactive quiz.
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ Welcome to the PCAP Training project! This project is a web-based application de
 
 ## Project Overview
 
-The PCAP Training project aims to provide a user-friendly platform for users to practice and test their knowledge in preparation for the Certified Associate Python Programmer certification. It includes a structured quiz layout, styled with CSS, and enhanced with JavaScript functionalities to offer an interactive experience.
+The PCAP Quiz project aims to provide a user-friendly platform for users to practice and test their knowledge in preparation for the Certified Associate Python Programmer certification. It includes a structured quiz layout, styled with CSS, and enhanced with JavaScript functionalities to offer an interactive experience.
 
 ## Features
 
@@ -40,7 +40,7 @@ The PCAP Training project aims to provide a user-friendly platform for users to 
 
 ## Installation
 
-To get started with the PCAP Training project, follow this step:
+To get started with the PCAP Quiz project, follow this step:
 
 **Clone the repository:**
     ```bash
@@ -90,7 +90,7 @@ If you have any questions or feedback, feel free to reach out to the project mai
 
 # Deutsch
 
-Willkommen zum PCAP Training Projekt! Dieses Projekt ist eine webbasierte Anwendung, die Benutzern hilft, sich durch ein interaktives Quiz auf die Zertifizierung (31-03) zum Certified Associate Python Programmer (PCAP) vorzubereiten.
+Willkommen zum PCAP Quiz Projekt! Dieses Projekt ist eine webbasierte Anwendung, die Benutzern hilft, sich durch ein interaktives Quiz auf die Zertifizierung (31-03) zum Certified Associate Python Programmer (PCAP) vorzubereiten.
 
 ## Inhaltsverzeichnis
 
@@ -105,7 +105,7 @@ Willkommen zum PCAP Training Projekt! Dieses Projekt ist eine webbasierte Anwend
 
 ## Projektübersicht
 
-Das PCAP Training Projekt bietet eine benutzerfreundliche Plattform, auf der Benutzer ihr Wissen testen und üben können, um sich auf die Zertifizierung zum Certified Associate Python Programmer vorzubereiten. Es umfasst ein strukturiertes Quiz-Layout, das mit CSS gestaltet und mit JavaScript-Funktionalitäten verbessert wurde, um ein interaktives Erlebnis zu bieten.
+Das PCAP Quiz Projekt bietet eine benutzerfreundliche Plattform, auf der Benutzer ihr Wissen testen und üben können, um sich auf die Zertifizierung zum Certified Associate Python Programmer vorzubereiten. Es umfasst ein strukturiertes Quiz-Layout, das mit CSS gestaltet und mit JavaScript-Funktionalitäten verbessert wurde, um ein interaktives Erlebnis zu bieten.
 
 ## Funktionen
 
@@ -116,7 +116,7 @@ Das PCAP Training Projekt bietet eine benutzerfreundliche Plattform, auf der Ben
 
 ## Installation
 
-Um mit dem PCAP Training Projekt zu beginnen, folgen Sie diesem Schritt:
+Um mit dem PCAP Quiz Projekt zu beginnen, folgen Sie diesem Schritt:
 
 **Repository klonen:**
     ```bash
